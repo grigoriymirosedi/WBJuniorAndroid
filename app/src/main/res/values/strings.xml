@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">WBJuniorAndroid</string>
+
+    <string name="search">Поиск</string>
+
+    <!--  bottom bar section  -->
+    <string name="bottom_bar_events">Встречи</string>
+    <string name="bottom_bar_community">Сообщества</string>
+    <string name="bottom_bar_more">Еще</string>
+
+    <!--  tabs title section  -->
+    <string name="tab_all_mettings">Все встречи</string>
+    <string name="tab_active_meetings">Активные</string>
+    <string name="tab_planned_meetings">Запланировано</string>
+    <string name="tab_passed_meetings">Уже прошли</string>
+
+    <!-- meeting card   -->
+    <string name="passed_event">Закончилась</string>
+    <!-- community card  -->
+    <string name="meetings_events">Встречи сообщества</string>
+
+    <!--  app bar title section  -->
+    <string name="app_bar_title_events">Встречи</string>
+    <string name="app_bar_title_community">Сообщества</string>
+    <string name="app_bar_title_more">Ещё</string>
+    <string name="app_bar_title_profile">Профиль</string>
+    <string name="app_bar_title_my_events">Мои встречи</string>
+    <string name="app_bar_title_event_details">Developer meetings</string>
+    <string name="app_bar_title_community_details">Сообщества</string>
+    <string name="app_bar_title_empty"> </string>
+
+    <!--  auth profile screen  -->
+    <string name="auth_profile_name">Имя (обязательно)</string>
+    <string name="auth_profile_second_name">Фамилия (опционально)</string>
+    <string name="auth_profile_save_button">Сохранить</string>
+
+    <!-- auth screen section -->
+    <string name="auth_phone_input_title">Введите номер телефона</string>
+    <string name="auth_phone_input_details">Мы вышлем код подтверждения \n на указанный номер</string>
+    <string name="auth_phone_continue_button">Продолжить</string>
+
+    <string name="auth_code_input_title">Введите код</string>
+    <string name="auth_code_input_details">Отправили код на номер \n +7 999 999-99-99</string>
+    <string name="auth_code_input_request">Запросить код повторно</string>
+
+    <!-- more screen section   -->
+    <string name="more_my_events">Мои встречи</string>
+    <string name="more_theme">Тема</string>
+    <string name="more_notifications">Уведомления</string>
+    <string name="more_security">Безопасность</string>
+    <string name="more_storage">Память и ресурсы</string>
+    <string name="more_support">Помощь</string>
+    <string name="more_invite_friend">Пригласи друга</string>
+
+</resources>
